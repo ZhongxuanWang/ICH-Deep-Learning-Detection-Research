@@ -2,4 +2,4 @@
 Repository for research of Automatic Intracranial Hemorrhage Detection with CT image.
 
 
-GUI software link: https://github.com/ZhongxuanWang/ICH-Detector
+GUI software link: https://github.com/XiangchengJi/ICH-Detector
