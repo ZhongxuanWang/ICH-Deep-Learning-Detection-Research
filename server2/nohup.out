@@ -1,0 +1,1074 @@
+[W 09:51:58.479 LabApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 09:51:58.488 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.7/site-packages/jupyterlab
+[I 09:51:58.488 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 09:51:58.492 LabApp] Serving notebooks from local directory: /home/ec2-user
+[I 09:51:58.492 LabApp] Jupyter Notebook 6.1.3 is running at:
+[I 09:51:58.492 LabApp] http://ip-172-31-38-248.ap-southeast-1.compute.internal:8888/
+[I 09:51:58.492 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 09:51:58.497 LabApp] No web browser found: could not locate runnable browser.
+[W 09:52:34.609 LabApp] Could not determine jupyterlab build status without nodejs
+[I 09:52:46.272 LabApp] Creating new notebook in /
+[I 09:52:46.282 LabApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[I 09:52:49.349 LabApp] Kernel started: 896fdc71-b254-4912-8bd1-422c401c932f, name: python3
+[I 09:54:49.181 LabApp] Saving file at /Untitled.ipynb
+[W 10:49:07.424 LabApp] 400 GET /api/contents/project/data.npy?format=text&type=file&content=1&1598669347130 (173.199.202.163): /home/ec2-user/project/data.npy is not UTF-8 encoded
+[W 10:49:07.425 LabApp] /home/ec2-user/project/data.npy is not UTF-8 encoded
+[W 10:49:07.425 LabApp] 400 GET /api/contents/project/data.npy?format=text&type=file&content=1&1598669347130 (173.199.202.163) 2.53ms referer=http://nb2.dlearninglab.com:8888/lab?
+[I 11:00:08.516 LabApp] 302 GET / (92.118.160.41) 0.88ms
+[W 12:29:32.065 LabApp] delete /project/densenet201/model_densenet201_3.pt
+[W 12:29:41.263 LabApp] delete /project/densenet201/model_densenet201_0.pt
+[W 12:29:41.661 LabApp] delete /project/densenet201/model_densenet201_2.pt
+[W 12:29:41.838 LabApp] delete /project/densenet201/model_densenet201_11.pt
+[W 12:29:41.842 LabApp] delete /project/densenet201/model_densenet201_6.pt
+[W 12:29:41.844 LabApp] delete /project/densenet201/model_densenet201_5.pt
+[W 12:29:42.274 LabApp] delete /project/densenet201/model_densenet201_1.pt
+[W 12:29:42.663 LabApp] delete /project/densenet201/model_densenet201_4.pt
+[I 12:30:09.982 LabApp] Saving file at /project/main.py
+[I 12:30:16.199 LabApp] Creating new directory in /project
+[I 12:31:51.689 LabApp] Saving file at /Untitled.ipynb
+[I 12:32:08.649 LabApp] Saving file at /project/densenet201.out
+[I 12:32:30.720 LabApp] Saving file at /project/densenet201.out
+[W 14:31:22.907 LabApp] WebSocket ping timeout after 118577 ms.
+[W 14:31:24.140 LabApp] WebSocket ping timeout after 119413 ms.
+[I 14:31:29.142 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:38f5494a-482f-4cd1-a94c-a8de4b1fd2bf
+[I 15:07:18.533 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:38f5494a-482f-4cd1-a94c-a8de4b1fd2bf
+[I 15:07:26.349 LabApp] Restoring connection for 896fdc71-b254-4912-8bd1-422c401c932f:38f5494a-482f-4cd1-a94c-a8de4b1fd2bf
+[W 15:14:26.352 LabApp] WebSocket ping timeout after 119406 ms.
+[W 15:14:27.757 LabApp] WebSocket ping timeout after 119401 ms.
+[I 15:14:32.760 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 15:43:01.624 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 15:43:02.764 LabApp] Restoring connection for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 16:10:28.660 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[W 17:12:59.882 LabApp] WebSocket ping timeout after 119412 ms.
+[W 17:13:01.484 LabApp] WebSocket ping timeout after 119424 ms.
+[I 17:13:06.487 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 17:35:48.204 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:38f5494a-482f-4cd1-a94c-a8de4b1fd2bf
+[I 17:35:50.877 LabApp] Restoring connection for 896fdc71-b254-4912-8bd1-422c401c932f:38f5494a-482f-4cd1-a94c-a8de4b1fd2bf
+[I 20:25:43.768 LabApp] Creating new file in /project/densenet201_pretrained
+[I 20:25:50.854 LabApp] Saving file at /project/densenet201_pretrained/untitled.md
+[I 20:25:51.302 LabApp] Saving file at /project/densenet201_pretrained/untitled.md
+[I 20:25:51.736 LabApp] Saving file at /project/densenet201_pretrained/untitled.md
+[I 20:25:52.052 LabApp] Saving file at /project/densenet201_pretrained/untitled.md
+[W 23:50:50.879 LabApp] WebSocket ping timeout after 116851 ms.
+[W 23:50:52.229 LabApp] WebSocket ping timeout after 118422 ms.
+[I 23:50:57.232 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 23:59:46.441 LabApp] Restoring connection for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 00:00:27.721 LabApp] 302 GET / (162.142.125.57) 0.71ms
+[I 00:00:28.196 LabApp] 302 GET / (162.142.125.57) 0.75ms
+[I 00:00:28.656 LabApp] 302 GET /lab (162.142.125.57) 0.93ms
+[I 00:59:55.646 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:61d50d00-feaf-4cd2-9d0d-905c99f9d01e
+[I 06:36:59.256 LabApp] 302 GET / (209.17.96.74) 0.47ms
+[W 10:04:40.281 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:46:51.271 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:69a83ecb-faed-47cd-bfc0-7fb35c6ac9fc
+[I 10:47:03.768 LabApp] Saving file at /Untitled.ipynb
+[I 10:47:06.472 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:c4e1041d-eb64-4e82-b5e9-e3890a50a691
+[I 10:48:51.498 LabApp] Saving file at /project/main.py
+[I 10:49:35.416 LabApp] Saving file at /project/main.py
+[I 10:50:10.960 LabApp] Saving file at /project/main.py
+[I 10:50:12.195 LabApp] Saving file at /project/main.py
+[I 10:51:50.154 LabApp] Saving file at /project/main.py
+[I 12:21:15.587 LabApp] 302 GET / (209.17.97.50) 0.62ms
+[I 12:21:16.065 LabApp] 302 GET /lab (209.17.97.50) 0.78ms
+[I 15:57:12.953 LabApp] 302 GET / (192.35.168.96) 0.97ms
+[I 15:57:13.182 LabApp] 302 GET /lab? (192.35.168.96) 0.81ms
+[I 16:31:42.505 LabApp] 302 GET / (172.105.238.87) 0.69ms
+[I 00:02:17.386 LabApp] Creating new directory in /
+[W 00:02:28.198 LabApp] delete /Untitled Folder
+[I 00:02:35.038 LabApp] Creating new directory in /project
+[I 00:10:38.284 LabApp] Saving file at /project/rn101_np.out
+[I 00:10:39.943 LabApp] Saving file at /project/rn101_np.out
+[I 01:06:06.938 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:93533036-8533-4e07-8e76-c4e21611b244
+[I 08:12:18.539 LabApp] 302 GET / (209.17.97.58) 0.77ms
+[I 08:12:19.022 LabApp] 302 GET /lab (209.17.97.58) 0.75ms
+[I 09:45:36.483 LabApp] 302 GET / (209.17.97.82) 1.10ms
+[I 17:29:49.234 LabApp] 302 GET / (173.199.202.163) 0.39ms
+[W 20:40:14.385 LabApp] Could not determine jupyterlab build status without nodejs
+[I 20:40:17.272 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:04171c5b-7870-413c-9576-3dfd61612bc2
+[I 20:40:58.881 LabApp] 302 GET /files/project/densenet201_pretrained/model_densenet201.pt?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.63ms
+[I 20:41:22.958 LabApp] 302 GET /files/project/densenet201_pretrained/model_densenet201.pt?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.59ms
+[I 20:41:32.268 LabApp] 302 GET /files/project/densenet201_pretrained/model_densenet201.pt?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.60ms
+[I 20:41:37.103 LabApp] 302 GET /files/project/densenet201_pretrained/model_densenet201.pt?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.61ms
+[I 20:43:07.202 LabApp] 302 GET /files/project/densenet201_pretrained/model_densenet201.pt?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.62ms
+[I 20:44:18.922 LabApp] 302 GET /login?next=%2Ffiles%2Fproject%2Fdensenet201_pretrained%2Fmodel_densenet201.pt%3F_xsrf%3D2%257Cf0401ec7%257C464032c683e33de51ee0b68b6a832f4d%257C1598612440 (173.199.202.163) 0.65ms
+[I 20:48:41.148 LabApp] 302 POST /login?next=%2F (173.199.202.163) 38.29ms
+[I 20:48:41.793 LabApp] 302 GET / (173.199.202.163) 0.44ms
+[W 20:48:45.891 LabApp] Could not determine jupyterlab build status without nodejs
+[I 20:48:48.816 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:9c26c8b8-b8d5-45e7-a1b8-8bccd8315e40
+[I 22:25:07.414 LabApp] 302 GET / (192.35.168.193) 0.42ms
+[I 22:25:07.871 LabApp] 302 GET / (192.35.168.193) 0.41ms
+[I 22:25:08.324 LabApp] 302 GET /lab (192.35.168.193) 0.58ms
+[I 23:08:32.765 LabApp] 302 GET / (139.162.83.10) 0.48ms
+[I 05:30:22.749 LabApp] 302 GET / (183.136.225.45) 0.41ms
+[I 05:30:22.949 LabApp] 302 GET /lab? (183.136.225.45) 0.41ms
+[I 06:46:12.830 LabApp] 302 GET / (209.17.96.186) 0.41ms
+[I 06:46:13.284 LabApp] 302 GET /lab (209.17.96.186) 0.45ms
+[I 07:59:51.330 LabApp] 302 GET / (209.17.97.2) 0.50ms
+[W 10:20:12.497 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:32:52.208 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:25769e74-bd6b-4854-bf51-11236dbb8439
+[I 15:07:44.574 LabApp] 302 GET / (173.199.202.163) 0.42ms
+[W 15:10:40.484 LabApp] Could not determine jupyterlab build status without nodejs
+[I 15:10:43.232 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:4a0796f3-63ab-4738-8471-a1725df6080d
+[I 15:38:57.598 LabApp] 302 GET / (196.52.43.88) 0.45ms
+[I 15:38:57.949 LabApp] 302 GET /lab (196.52.43.88) 0.53ms
+[I 19:32:57.160 LabApp] 302 GET / (172.105.238.87) 0.55ms
+[I 21:41:29.981 LabApp] 302 GET / (139.162.83.10) 0.48ms
+[I 04:58:51.865 LabApp] 302 GET / (180.149.125.165) 0.43ms
+[I 04:58:51.960 LabApp] 302 GET /lab? (180.149.125.165) 0.38ms
+[W 10:18:56.670 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:29:46.928 LabApp] 302 GET / (209.17.96.98) 0.46ms
+[I 11:17:44.273 LabApp] 302 GET / (89.248.174.3) 0.42ms
+[I 11:35:38.077 LabApp] 302 GET / (209.17.96.226) 0.41ms
+[I 11:35:38.553 LabApp] 302 GET /lab (209.17.96.226) 0.43ms
+[I 14:35:23.210 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:c52d982e-31df-4efa-91a5-40049fc20e7e
+[I 14:36:21.110 LabApp] Creating new notebook in /
+[I 14:36:24.049 LabApp] Kernel started: 56ea727c-1436-46dc-9dec-deff2a20ef90, name: python3
+[I 14:38:23.594 LabApp] Saving file at /Untitled1.ipynb
+[I 15:05:20.779 LabApp] 302 GET / (167.248.133.52) 0.43ms
+[I 15:05:21.176 LabApp] 302 GET / (167.248.133.52) 0.42ms
+[I 15:05:21.585 LabApp] 302 GET /lab (167.248.133.52) 0.58ms
+[W 16:18:26.124 LabApp] WebSocket ping timeout after 119289 ms.
+[I 16:18:31.126 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:7440ab02-002a-4072-b87b-cd37f68bc2ff
+[I 16:27:20.512 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:7440ab02-002a-4072-b87b-cd37f68bc2ff
+[W 16:50:20.514 LabApp] WebSocket ping timeout after 119679 ms.
+[I 16:50:25.515 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:7440ab02-002a-4072-b87b-cd37f68bc2ff
+[W 18:14:18.451 LabApp] Could not determine jupyterlab build status without nodejs
+[I 18:17:44.010 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:1e5c5c94-29e6-4869-a225-b37cb9597b95
+[I 18:18:12.267 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:c07bde8f-5674-4a28-9151-4b6943a2b2f6
+[I 18:19:45.320 LabApp] Saving file at /Untitled1.ipynb
+[I 18:38:56.363 LabApp] Creating new notebook in /project
+[I 18:38:57.884 LabApp] Kernel started: 03461997-cc73-4b42-96ab-8cac4d7dcae1, name: python3
+[I 18:39:52.728 LabApp] Saving file at /Untitled1.ipynb
+[I 18:40:57.631 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 20:30:29.260 LabApp] 302 GET / (92.118.161.1) 0.51ms
+[I 03:00:51.645 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ee38abb3-855c-4d07-851f-343d8af4987c
+[I 03:00:51.648 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:08001b55-e2b6-4dc1-b07e-947f09dd24e6
+[I 04:43:28.583 LabApp] 302 GET / (209.17.96.42) 0.37ms
+[I 04:43:29.062 LabApp] 302 GET /lab (209.17.96.42) 0.47ms
+[I 06:59:52.531 LabApp] 302 GET / (209.17.96.138) 0.48ms
+[I 09:56:56.660 LabApp] 302 GET / (83.97.20.33) 0.48ms
+[I 09:56:59.063 LabApp] 302 GET /lab? (83.97.20.33) 0.54ms
+[I 11:22:29.122 LabApp] 302 GET / (192.35.168.199) 0.44ms
+[I 11:22:29.578 LabApp] 302 GET / (192.35.168.199) 0.41ms
+[I 11:22:30.035 LabApp] 302 GET /lab (192.35.168.199) 0.53ms
+[I 08:31:19.607 LabApp] 302 GET / (209.17.96.210) 0.49ms
+[I 09:36:45.899 LabApp] 302 GET / (209.17.96.98) 0.40ms
+[I 09:36:46.354 LabApp] 302 GET /lab (209.17.96.98) 0.53ms
+[W 17:50:21.517 LabApp] Could not determine jupyterlab build status without nodejs
+[I 17:50:22.637 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:1d9f845d-cab9-483d-a878-8b100ba31fcf
+[I 17:50:51.676 LabApp] Creating new directory in /project
+[I 17:52:23.180 LabApp] Saving file at /project/main.py
+[I 17:52:25.684 LabApp] Saving file at /project/data.py
+[I 17:53:44.899 LabApp] Saving file at /project/train.py
+[I 17:53:45.183 LabApp] Saving file at /project/train.py
+[I 17:53:45.969 LabApp] Saving file at /project/train.py
+[I 17:53:47.097 LabApp] Saving file at /project/train.py
+[I 17:54:08.217 LabApp] Saving file at /project/main.py
+[I 17:56:08.718 LabApp] Saving file at /project/main.py
+[I 18:55:56.692 LabApp] Saving file at /project/main.py
+[I 20:58:22.790 LabApp] 302 GET / (173.199.202.163) 0.38ms
+[I 20:58:25.261 LabApp] 301 GET /lab/workspaces/auto-c/?clone (173.199.202.163) 0.60ms
+[W 20:58:28.222 LabApp] Could not determine jupyterlab build status without nodejs
+[I 20:59:33.242 LabApp] 302 GET / (102.165.30.57) 0.47ms
+[I 20:59:33.286 LabApp] Saving file at /project/main.py
+[I 20:59:33.383 LabApp] Saving file at /project/main.py
+[I 20:59:36.433 LabApp] Saving file at /project/main.py
+[I 21:00:23.405 LabApp] Saving file at /project/data.py
+[I 21:00:26.833 LabApp] Saving file at /project/data.py
+[I 21:02:34.666 LabApp] 302 GET / (167.248.133.35) 0.41ms
+[I 21:02:35.082 LabApp] 302 GET / (167.248.133.35) 0.40ms
+[I 21:02:35.478 LabApp] 302 GET /lab (167.248.133.35) 0.53ms
+[I 21:04:32.785 LabApp] Saving file at /Untitled1.ipynb
+[I 21:06:33.940 LabApp] Saving file at /Untitled1.ipynb
+[I 21:08:35.061 LabApp] Saving file at /Untitled1.ipynb
+[I 21:10:51.628 LabApp] Saving file at /Untitled1.ipynb
+[I 21:16:19.855 LabApp] Saving file at /Untitled1.ipynb
+[I 21:18:21.013 LabApp] Saving file at /Untitled1.ipynb
+[I 21:20:23.027 LabApp] Saving file at /Untitled1.ipynb
+[I 21:22:24.224 LabApp] Saving file at /Untitled1.ipynb
+[I 21:24:25.354 LabApp] Saving file at /Untitled1.ipynb
+[I 21:26:27.566 LabApp] Saving file at /Untitled1.ipynb
+[I 21:30:31.226 LabApp] Saving file at /Untitled1.ipynb
+[I 21:32:32.429 LabApp] Saving file at /Untitled1.ipynb
+[I 21:32:46.454 LabApp] Creating new directory in /
+[I 21:34:33.924 LabApp] Saving file at /Untitled1.ipynb
+[I 22:13:05.906 LabApp] Saving file at /Untitled.ipynb
+[I 22:46:55.746 LabApp] 302 GET / (34.72.49.120) 0.58ms
+[I 22:48:07.768 LabApp] 302 GET /tree? (34.72.49.120) 0.50ms
+[I 23:15:04.539 LabApp] Saving file at /Untitled1.ipynb
+[I 23:35:11.720 LabApp] Saving file at /Untitled1.ipynb
+[I 23:37:12.979 LabApp] Saving file at /Untitled1.ipynb
+[I 23:39:14.233 LabApp] Saving file at /Untitled1.ipynb
+[I 23:39:57.509 LabApp] Saving file at /project/data.py
+[I 23:39:57.953 LabApp] Saving file at /project/data.py
+[I 23:39:59.149 LabApp] Saving file at /project/data.py
+python3: can't open file 'main.py': [Errno 2] No such file or directory
+[I 23:41:15.498 LabApp] Saving file at /Untitled1.ipynb
+[I 23:42:00.397 LabApp] Saving file at /project/data.py
+[I 23:43:05.069 LabApp] Starting buffering for 896fdc71-b254-4912-8bd1-422c401c932f:e0ce6288-c34c-410d-b33e-92a988c1f979
+[I 23:43:16.773 LabApp] Saving file at /Untitled1.ipynb
+[I 23:44:01.668 LabApp] Saving file at /project/data.py
+[I 23:44:37.686 LabApp] Saving file at /project/data.py
+[I 23:44:39.963 LabApp] Saving file at /project/data.py
+[I 23:44:42.237 LabApp] Saving file at /project/data.py
+[I 23:46:03.239 LabApp] Saving file at /project/data.py
+[I 23:46:03.827 LabApp] Saving file at /project/data.py
+[I 00:24:14.282 LabApp] Saving file at /project/data.py
+[I 00:30:18.723 LabApp] Saving file at /project/data.py
+[I 00:30:32.009 LabApp] Saving file at /project/data.py
+[I 00:30:51.869 LabApp] Saving file at /project/data.py
+[I 00:37:07.946 LabApp] Saving file at /project/main.py
+[I 00:57:22.851 LabApp] Saving file at /project/data.py
+[I 01:03:25.147 LabApp] Saving file at /project/data.py
+[I 01:03:25.363 LabApp] Saving file at /project/data.py
+[I 01:03:25.442 LabApp] Saving file at /project/data.py
+[I 01:08:05.033 LabApp] Saving file at /project/data.py
+[I 01:11:36.897 LabApp] 302 GET / (74.120.14.34) 0.29ms
+[I 01:11:37.320 LabApp] 302 GET / (74.120.14.34) 0.31ms
+[I 01:11:37.752 LabApp] 302 GET /lab (74.120.14.34) 0.36ms
+[I 01:17:55.961 LabApp] 302 GET / (162.142.125.50) 0.28ms
+[I 01:17:56.409 LabApp] 302 GET / (162.142.125.50) 0.28ms
+[I 01:17:56.889 LabApp] 302 GET /lab (162.142.125.50) 0.36ms
+[I 01:41:16.145 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:fdd4d0a3-ae78-40ed-888f-e62b9361b98b
+[I 01:41:16.146 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:e0c0696d-6028-4949-a3c9-cc5588c68746
+[I 01:46:09.091 LabApp] 302 GET / (102.165.30.5) 0.37ms
+[I 01:46:09.277 LabApp] 302 GET /lab (102.165.30.5) 0.42ms
+[I 06:46:28.685 LabApp] 302 GET / (209.17.97.90) 0.37ms
+[I 06:46:29.167 LabApp] 302 GET /lab (209.17.97.90) 0.43ms
+[I 06:48:43.438 LabApp] 302 GET / (156.96.156.138) 0.37ms
+[I 06:48:43.924 LabApp] 302 GET /lab? (156.96.156.138) 0.41ms
+[I 06:58:28.325 LabApp] 302 GET / (180.149.125.165) 0.41ms
+[I 06:58:28.417 LabApp] 302 GET /lab? (180.149.125.165) 0.38ms
+[I 07:58:00.450 LabApp] 302 GET / (209.17.96.50) 0.42ms
+[W 10:38:12.927 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:38:50.561 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:47f993ad-8d49-47ad-adbb-5753a1fbf559
+[I 10:40:48.663 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:7ed5eaa8-18d3-4e75-8049-9aba288f0045
+[I 10:40:48.663 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:42eb81e7-af8d-4647-92f4-8205d9d7e7bc
+[W 10:40:49.906 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:40:52.493 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:78d6cc42-602d-46db-a015-2f49adfca574
+[W 10:43:25.426 LabApp] WebSocket ping timeout after 119352 ms.
+[W 10:43:26.530 LabApp] WebSocket ping timeout after 119435 ms.
+[I 10:43:30.427 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 10:43:31.531 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 10:45:58.935 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 10:46:54.037 LabApp] Saving file at /Untitled1.ipynb
+[I 10:48:31.409 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[W 10:51:28.937 LabApp] WebSocket ping timeout after 119383 ms.
+[W 10:51:31.410 LabApp] WebSocket ping timeout after 119423 ms.
+[I 10:51:33.938 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 10:51:36.411 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 11:26:51.286 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 11:26:53.462 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 11:31:46.969 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 11:31:46.973 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 11:31:47.425 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 11:31:49.159 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[W 11:33:17.426 LabApp] WebSocket ping timeout after 90001 ms.
+[W 11:33:19.160 LabApp] WebSocket ping timeout after 90000 ms.
+[I 11:33:22.428 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 11:33:24.161 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 11:34:19.561 LabApp] 302 GET / (74.120.14.33) 0.41ms
+[I 11:34:19.987 LabApp] 302 GET / (74.120.14.33) 0.40ms
+[I 11:34:20.427 LabApp] 302 GET /lab (74.120.14.33) 0.49ms
+[W 14:38:08.235 LabApp] 404 GET http://example.com/ (185.39.11.105) 6.79ms referer=None
+[I 15:32:30.045 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 15:32:32.069 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[W 15:34:00.047 LabApp] WebSocket ping timeout after 90002 ms.
+[W 15:34:02.070 LabApp] WebSocket ping timeout after 90001 ms.
+[I 15:34:05.050 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 15:34:07.072 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 15:48:33.391 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 15:48:35.087 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 15:57:38.018 LabApp] Saving file at /Untitled1.ipynb
+[W 15:58:09.715 LabApp] 404 HEAD http://112.124.42.80:63435/ (60.191.125.35) 1.08ms referer=None
+[I 18:38:37.934 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 18:38:37.934 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[W 20:11:48.138 LabApp] 404 GET http://passport.baidu.com/ (149.129.57.130) 1.17ms referer=None
+[I 20:39:13.888 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 20:39:14.464 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[W 20:40:43.889 LabApp] WebSocket ping timeout after 90000 ms.
+[W 20:40:44.467 LabApp] WebSocket ping timeout after 90002 ms.
+[I 20:40:48.890 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 20:40:49.467 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:16:09.227 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 23:16:10.212 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:21:19.157 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 23:21:19.162 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:21:20.277 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:21:21.965 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[W 23:22:50.278 LabApp] WebSocket ping timeout after 90001 ms.
+[W 23:22:51.966 LabApp] WebSocket ping timeout after 90000 ms.
+[I 23:22:55.279 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:22:56.969 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 23:58:27.586 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 23:59:43.755 LabApp] Restoring connection for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 00:43:27.965 LabApp] Starting buffering for 56ea727c-1436-46dc-9dec-deff2a20ef90:55ad9a58-83a7-45e4-8776-2d7284517905
+[I 00:43:49.553 LabApp] Creating new notebook in /project
+[I 00:43:52.753 LabApp] Kernel started: d015ce5f-0089-49ab-b6b3-881c610a3019, name: python3
+[I 00:45:28.221 LabApp] Saving file at /project/data.py
+[I 00:45:38.607 LabApp] Saving file at /project/data.py
+[I 00:45:52.136 LabApp] Saving file at /project/Main.ipynb
+[I 01:47:20.334 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:20b332f5-0386-4035-822d-1d7f192c5a2d
+[I 01:47:20.521 LabApp] Starting buffering for d015ce5f-0089-49ab-b6b3-881c610a3019:798ec630-6e78-4193-9857-806a98c5c1bb
+[W 03:15:12.623 LabApp] 404 GET http://example.com/ (185.39.11.105) 1.25ms referer=None
+[I 04:53:29.283 LabApp] 302 GET / (209.17.96.162) 0.49ms
+[W 05:58:37.099 LabApp] 404 GET http://passport.baidu.com/ (149.129.57.130) 1.13ms referer=None
+[I 06:54:25.985 LabApp] 302 GET / (167.248.133.35) 0.41ms
+[I 06:54:26.384 LabApp] 302 GET / (167.248.133.35) 0.36ms
+[I 06:54:26.787 LabApp] 302 GET /lab (167.248.133.35) 0.56ms
+[I 09:41:00.685 LabApp] 302 GET / (185.6.187.230) 0.39ms
+[I 09:41:01.124 LabApp] 302 GET /lab (185.6.187.230) 0.46ms
+[I 09:41:02.241 LabApp] 302 GET /HNAP1/ (185.6.187.230) 0.39ms
+[W 09:41:02.681 LabApp] 404 GET /HNAP1 (185.6.187.230) 1.07ms referer=http://54.255.242.255:8888/
+[W 10:28:57.048 LabApp] Could not determine jupyterlab build status without nodejs
+[I 10:29:00.041 LabApp] Starting buffering for d015ce5f-0089-49ab-b6b3-881c610a3019:0e30f133-61ee-48b5-9c36-af49cbc4fa82
+[W 10:35:35.031 LabApp] WebSocket ping timeout after 119416 ms.
+[W 10:35:37.258 LabApp] WebSocket ping timeout after 119401 ms.
+[I 10:35:40.033 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 10:35:42.259 LabApp] Starting buffering for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[I 11:05:26.240 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 11:06:34.953 LabApp] Restoring connection for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[W 11:06:56.241 LabApp] WebSocket ping timeout after 90000 ms.
+[I 11:07:01.242 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 11:07:04.873 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[W 11:25:04.874 LabApp] WebSocket ping timeout after 119777 ms.
+[W 11:25:04.954 LabApp] WebSocket ping timeout after 119778 ms.
+[I 11:25:09.876 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 11:25:09.954 LabApp] Starting buffering for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[I 11:33:55.020 LabApp] Restoring connection for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[I 11:33:57.220 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 11:41:13.492 LabApp] Saving file at /project/data.py
+[I 11:41:14.212 LabApp] Saving file at /project/data.py
+[I 11:41:25.904 LabApp] Saving file at /project/data.py
+[I 11:41:31.025 LabApp] Saving file at /project/data.py
+[I 11:41:34.703 LabApp] Saving file at /project/data.py
+[I 11:41:43.984 LabApp] Saving file at /project/data.py
+[I 11:41:45.892 LabApp] Saving file at /project/data.py
+[I 11:41:49.252 LabApp] Saving file at /project/data.py
+[W 11:58:25.021 LabApp] WebSocket ping timeout after 119294 ms.
+[W 11:58:27.220 LabApp] WebSocket ping timeout after 119133 ms.
+[I 11:58:30.024 LabApp] Starting buffering for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[I 11:58:32.222 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 12:22:57.225 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 12:23:36.782 LabApp] Restoring connection for d015ce5f-0089-49ab-b6b3-881c610a3019:c00a8279-001f-44ea-8e93-6d141ce16ddf
+[I 12:28:30.308 LabApp] Saving file at /project/data.py
+[I 12:29:39.414 LabApp] Saving file at /project/data.py
+[I 12:29:40.653 LabApp] Saving file at /project/data.py
+[I 12:29:42.417 LabApp] Saving file at /project/data.py
+[I 12:29:42.691 LabApp] Saving file at /project/data.py
+[I 12:29:42.919 LabApp] Saving file at /project/data.py
+[I 12:29:45.139 LabApp] Saving file at /project/data.py
+[I 12:29:45.611 LabApp] Saving file at /project/data.py
+[I 12:29:46.026 LabApp] Saving file at /project/data.py
+[I 12:30:33.794 LabApp] Saving file at /project/Main.ipynb
+[I 12:32:34.951 LabApp] Saving file at /project/Main.ipynb
+[I 12:32:57.820 LabApp] Saving file at /project/data.py
+[I 12:37:22.163 LabApp] Saving file at /project/data.py
+[I 12:37:22.352 LabApp] Saving file at /project/data.py
+[I 12:37:23.688 LabApp] Saving file at /project/data.py
+[I 12:37:23.918 LabApp] Saving file at /project/data.py
+[I 12:37:36.276 LabApp] Kernel interrupted: d015ce5f-0089-49ab-b6b3-881c610a3019
+[I 12:37:43.715 LabApp] Kernel shutdown: d015ce5f-0089-49ab-b6b3-881c610a3019
+[I 12:37:54.728 LabApp] Kernel started: e741f043-04f5-4e64-a8e6-cfd354a760af, name: python3
+[I 12:38:28.709 LabApp] Saving file at /project/data.py
+[I 12:38:38.836 LabApp] Saving file at /project/Main.ipynb
+[I 12:40:30.454 LabApp] Saving file at /project/data.py
+[I 12:40:48.529 LabApp] Saving file at /project/data.py
+[I 12:40:49.004 LabApp] Saving file at /project/data.py
+[I 12:40:50.036 LabApp] Saving file at /project/data.py
+[I 12:40:50.158 LabApp] Saving file at /project/data.py
+[I 12:40:50.766 LabApp] Saving file at /project/data.py
+[I 12:40:50.797 LabApp] Saving file at /project/data.py
+[I 12:40:51.773 LabApp] Saving file at /project/data.py
+[I 12:40:52.160 LabApp] Saving file at /project/data.py
+[I 12:40:52.247 LabApp] Saving file at /project/data.py
+[I 12:40:52.264 LabApp] Saving file at /project/data.py
+[I 12:40:52.277 LabApp] Saving file at /project/data.py
+[I 12:40:53.237 LabApp] Saving file at /project/data.py
+[I 12:40:53.275 LabApp] Saving file at /project/data.py
+[I 12:40:53.279 LabApp] Saving file at /project/data.py
+[I 12:40:53.732 LabApp] Saving file at /project/data.py
+[I 12:40:55.722 LabApp] Saving file at /project/data.py
+[I 12:41:14.858 LabApp] Saving file at /project/data.py
+[I 12:41:15.114 LabApp] Saving file at /project/data.py
+[I 12:41:15.919 LabApp] Saving file at /project/data.py
+[I 12:41:16.004 LabApp] Saving file at /project/data.py
+[I 12:41:16.517 LabApp] Saving file at /project/data.py
+[I 12:41:16.938 LabApp] Saving file at /project/data.py
+[I 12:41:17.021 LabApp] Saving file at /project/data.py
+[I 12:41:17.699 LabApp] Saving file at /project/data.py
+[I 12:41:18.689 LabApp] Saving file at /project/data.py
+[I 12:41:36.176 LabApp] Saving file at /project/Main.ipynb
+[I 12:41:36.681 LabApp] Starting buffering for e741f043-04f5-4e64-a8e6-cfd354a760af:76addc9e-73ef-4fc7-8889-a7cce0c73a48
+[I 12:41:38.759 LabApp] Kernel shutdown: e741f043-04f5-4e64-a8e6-cfd354a760af
+[I 12:41:46.057 LabApp] Kernel started: 21c200c0-22a7-4421-84dc-580ac446ed77, name: python3
+[I 12:42:44.933 LabApp] Saving file at /project/data.py
+[I 12:42:45.439 LabApp] Saving file at /project/data.py
+[I 12:42:45.505 LabApp] Saving file at /project/data.py
+[I 12:42:45.915 LabApp] Saving file at /project/data.py
+[I 12:42:47.279 LabApp] Saving file at /project/data.py
+[I 12:43:13.093 LabApp] Saving file at /project/Main.ipynb
+[I 12:43:13.617 LabApp] Starting buffering for 21c200c0-22a7-4421-84dc-580ac446ed77:5879732b-bd6e-4980-8c22-3844e5ff7c76
+[I 12:43:16.099 LabApp] Kernel shutdown: 21c200c0-22a7-4421-84dc-580ac446ed77
+[I 12:43:21.557 LabApp] Kernel started: bf92cafd-8d93-4022-8cd4-9c086a8d9542, name: python3
+[I 12:45:21.831 LabApp] Saving file at /project/Main.ipynb
+[I 12:47:42.350 LabApp] Saving file at /project/main.py
+[I 12:48:23.507 LabApp] Kernel interrupted: bf92cafd-8d93-4022-8cd4-9c086a8d9542
+[I 12:48:27.091 LabApp] Kernel interrupted: bf92cafd-8d93-4022-8cd4-9c086a8d9542
+[I 12:48:27.284 LabApp] Kernel interrupted: bf92cafd-8d93-4022-8cd4-9c086a8d9542
+[I 12:48:27.615 LabApp] Kernel interrupted: bf92cafd-8d93-4022-8cd4-9c086a8d9542
+[I 12:49:25.111 LabApp] Saving file at /project/Main.ipynb
+[I 12:49:59.023 LabApp] Kernel shutdown: bf92cafd-8d93-4022-8cd4-9c086a8d9542
+[W 12:59:27.227 LabApp] WebSocket ping timeout after 119409 ms.
+[I 12:59:32.229 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 13:13:52.785 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[W 13:15:22.787 LabApp] WebSocket ping timeout after 90001 ms.
+[I 13:15:27.789 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 13:19:11.999 LabApp] 302 GET / (209.17.96.82) 0.77ms
+[I 13:19:12.454 LabApp] 302 GET /lab (209.17.96.82) 0.68ms
+[W 13:36:42.587 LabApp] 404 GET http://189.110.241.184:7001/uaepfylrlaaa (191.209.68.200) 1.87ms referer=None
+[I 14:28:09.697 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 14:36:08.897 LabApp] Saving file at /project/main.py
+[I 14:36:09.137 LabApp] Saving file at /project/main.py
+[I 14:54:48.277 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 14:54:49.350 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 14:55:19.507 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:528a1b38-1680-4a57-bdae-ed9020be4c15
+[I 16:44:18.768 LabApp] 302 GET / (117.136.91.135) 1.11ms
+[I 16:44:18.999 LabApp] 302 GET /lab? (117.136.91.135) 1.26ms
+[I 16:44:26.258 LabApp] 302 POST /login?next=%2Flab%3F (117.136.91.135) 100.46ms
+[W 16:44:30.987 LabApp] Could not determine jupyterlab build status without nodejs
+[I 16:44:31.813 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:b58e7109-3d9d-41b4-bca5-4a19aac49d28
+[I 16:44:33.687 LabApp] Kernel started: e8d18239-bbb7-475f-948c-9e093697c55f, name: python3
+[W 16:48:33.826 LabApp] WebSocket ping timeout after 119814 ms.
+[W 16:48:34.589 LabApp] WebSocket ping timeout after 119647 ms.
+[I 16:48:38.829 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:48:39.591 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[I 16:50:03.880 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:50:10.419 LabApp] Restoring connection for e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[I 16:51:26.688 LabApp] Saving file at /project/Grad-CAM.ipynb
+[W 16:53:43.953 LabApp] Replacing stale connection: e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[W 16:53:43.971 LabApp] Replacing stale connection: 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:53:44.404 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 16:53:48.954 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[I 16:53:48.956 LabApp] Restoring connection for e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[I 16:53:48.972 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:53:48.974 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:54:19.271 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 16:54:19.953 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 16:56:20.552 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 16:56:29.447 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:c81a8949-7b70-4cf4-91ab-40278bfa1677
+[I 16:56:29.449 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:484fe49b-be4a-4b82-b895-2f364a649381
+[I 17:31:17.565 LabApp] 302 GET / (162.142.125.52) 0.77ms
+[I 17:31:18.041 LabApp] 302 GET / (162.142.125.52) 0.65ms
+[I 17:31:18.492 LabApp] 302 GET /lab (162.142.125.52) 0.96ms
+[I 17:39:00.837 LabApp] 302 GET / (139.162.83.10) 0.71ms
+[I 20:08:47.571 LabApp] 301 GET /lab/workspaces/auto-j/?clone (173.199.202.163) 0.94ms
+[W 20:08:54.844 LabApp] Could not determine jupyterlab build status without nodejs
+[I 20:08:58.873 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:02c9b528-7738-4a8c-ba7a-bf1ca534fe64
+[I 20:11:02.152 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 20:13:04.021 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 20:15:12.342 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:e036b5ad-f4b7-4c64-abc7-a5be8c52f5f9
+[I 20:29:12.917 LabApp] Saving file at /project/Grad-CAM.ipynb
+[I 20:31:14.960 LabApp] Saving file at /project/Grad-CAM.ipynb
+[W 20:41:40.297 LabApp] WebSocket ping timeout after 114008 ms.
+[I 20:41:45.299 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:6cdb9771-f7e9-4553-b6f8-55ed371218ff
+[I 20:49:25.873 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:6cdb9771-f7e9-4553-b6f8-55ed371218ff
+[W 21:02:55.874 LabApp] WebSocket ping timeout after 119473 ms.
+[I 21:03:00.875 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:6cdb9771-f7e9-4553-b6f8-55ed371218ff
+[I 21:05:30.912 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:6cdb9771-f7e9-4553-b6f8-55ed371218ff
+[W 21:43:01.550 LabApp] 404 GET http://example.com/ (185.39.11.105) 1.77ms referer=None
+[I 22:03:40.591 LabApp] 302 GET / (167.248.133.34) 0.69ms
+[I 22:03:40.997 LabApp] 302 GET / (167.248.133.34) 0.71ms
+[I 22:03:41.413 LabApp] 302 GET /lab (167.248.133.34) 0.82ms
+[I 23:54:39.296 LabApp] Saving file at /project/grad_cam.py
+[I 00:27:33.983 LabApp] 302 GET / (192.35.168.64) 0.90ms
+[I 00:27:34.230 LabApp] 302 GET /lab? (192.35.168.64) 0.87ms
+[I 02:17:52.613 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:6cdb9771-f7e9-4553-b6f8-55ed371218ff
+[I 02:30:45.502 LabApp] 302 GET / (209.17.96.114) 0.58ms
+[W 03:41:14.998 LabApp] 404 GET http://httpheader.net/ (47.197.212.106) 1.84ms referer=None
+[I 05:11:25.005 LabApp] 302 GET / (209.17.96.226) 0.38ms
+[I 05:11:25.479 LabApp] 302 GET /lab (209.17.96.226) 0.52ms
+[I 07:13:56.413 LabApp] 302 GET / (192.35.168.251) 0.41ms
+[I 07:13:56.903 LabApp] 302 GET / (192.35.168.251) 0.41ms
+[I 07:13:57.392 LabApp] 302 GET /lab (192.35.168.251) 0.53ms
+[W 10:24:26.237 LabApp] Could not determine jupyterlab build status without nodejs
+[I 11:57:35.573 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:86c80fb8-0b98-450f-ac61-4548c00dcad5
+[I 19:19:50.837 LabApp] 302 GET / (162.142.125.33) 0.43ms
+[I 19:19:51.294 LabApp] 302 GET / (162.142.125.33) 0.43ms
+[I 19:19:51.771 LabApp] 302 GET /lab (162.142.125.33) 0.53ms
+[W 20:08:37.285 LabApp] WebSocket ping timeout after 119454 ms.
+[I 20:08:42.288 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ed2b076f-5ab7-46e1-bf40-cf355558b0bf
+[I 20:17:31.097 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ed2b076f-5ab7-46e1-bf40-cf355558b0bf
+[I 20:26:38.562 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ed2b076f-5ab7-46e1-bf40-cf355558b0bf
+[I 20:26:39.264 LabApp] Restoring connection for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ed2b076f-5ab7-46e1-bf40-cf355558b0bf
+[I 20:42:42.203 LabApp] Kernel shutdown: 56ea727c-1436-46dc-9dec-deff2a20ef90
+[I 20:42:43.507 LabApp] Kernel shutdown: 896fdc71-b254-4912-8bd1-422c401c932f
+[W 21:03:34.034 LabApp] 404 GET http://example.com/ (185.39.11.105) 1.13ms referer=None
+[I 23:08:13.258 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:ed2b076f-5ab7-46e1-bf40-cf355558b0bf
+[I 23:09:28.380 LabApp] Saving file at /project/grad_cam.py
+[I 23:18:30.624 LabApp] 302 GET / (49.206.25.93) 0.43ms
+[I 23:18:31.251 LabApp] 302 GET /lab? (8.30.183.236) 0.56ms
+[W 23:18:32.737 LabApp] 404 GET /HNAP1 (70.125.99.154) 1.09ms referer=None
+[W 23:18:33.433 LabApp] 404 GET /currentsetting.htm (173.21.21.144) 1.09ms referer=None
+[I 00:38:13.544 LabApp] 302 GET /files/images_nw.zip?_xsrf=2%7Cf0401ec7%7C464032c683e33de51ee0b68b6a832f4d%7C1598612440 (13.212.58.49) 0.67ms
+[I 00:45:09.229 LabApp] Uploading file to /MODEL_EVAL.ipynb
+[W 00:45:18.771 LabApp] Notebook MODEL_EVAL.ipynb is not trusted
+[I 00:46:13.345 LabApp] Kernel started: b8e95b52-6ac1-4895-9762-ae97b77f1a9d, name: python3
+[I 00:48:17.879 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 00:48:17.880 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 00:52:06.620 LabApp] Uploading file to /label.csv
+[I 00:52:21.783 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 00:52:21.784 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 00:52:32.459 LabApp] Kernel shutdown: b8e95b52-6ac1-4895-9762-ae97b77f1a9d
+[I 00:52:34.897 LabApp] Kernel started: 60f85c9c-a87e-4f01-9201-f570b3e8f297, name: python3
+[I 00:54:23.838 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 00:54:23.839 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 00:56:44.755 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 00:56:44.756 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 00:58:24.285 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 00:58:24.286 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 01:02:34.240 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 01:02:34.241 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 01:03:58.352 LabApp] Kernel shutdown: 60f85c9c-a87e-4f01-9201-f570b3e8f297
+[I 01:04:02.551 LabApp] Kernel started: df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5, name: python3
+[I 01:04:42.140 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 01:04:42.142 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 01:08:59.455 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 01:08:59.456 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 01:33:24.733 LabApp] 302 GET / (74.120.14.51) 0.42ms
+[I 01:33:25.177 LabApp] 302 GET / (74.120.14.51) 0.41ms
+[I 01:33:25.625 LabApp] 302 GET /lab (74.120.14.51) 0.60ms
+[I 01:37:26.039 LabApp] Starting buffering for df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5:80d83b90-7fa1-483c-9cc5-e82e0b055af0
+[I 02:31:08.320 LabApp] 302 GET / (209.17.96.250) 0.39ms
+[I 02:31:08.798 LabApp] 302 GET /lab (209.17.96.250) 0.42ms
+[I 04:29:08.840 LabApp] 302 GET / (209.17.96.170) 0.48ms
+[I 04:37:58.880 LabApp] 302 GET / (172.105.238.87) 0.48ms
+[I 06:13:39.536 LabApp] 302 GET / (45.83.64.135) 0.40ms
+[I 09:36:17.957 LabApp] 302 GET / (139.162.83.10) 0.46ms
+[I 09:45:57.935 LabApp] 302 GET / (196.52.43.94) 0.42ms
+[I 09:45:58.262 LabApp] 302 GET /lab (196.52.43.94) 0.50ms
+[I 16:21:17.379 LabApp] 302 GET / (173.199.202.163) 0.38ms
+[W 16:22:37.115 LabApp] Could not determine jupyterlab build status without nodejs
+[W 16:22:40.739 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 16:22:40.771 LabApp] Starting buffering for df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5:9797e8f5-d588-4be5-abf7-5164422dd772
+[I 16:23:35.992 LabApp] Starting buffering for df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5:5b54e359-ceda-465c-a869-8adb02dbddce
+[I 16:24:23.282 LabApp] Saving file at /GradCAM_exp/main.py
+[I 16:24:23.523 LabApp] Saving file at /GradCAM_exp/main.py
+[I 16:24:23.831 LabApp] Saving file at /GradCAM_exp/main.py
+[I 16:24:24.057 LabApp] Saving file at /GradCAM_exp/main.py
+[I 16:26:37.378 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 16:27:57.578 LabApp] Saving file at /project/nohup.out
+[I 16:27:58.066 LabApp] Saving file at /project/nohup.out
+[I 16:27:58.290 LabApp] Saving file at /project/nohup.out
+[I 16:27:58.567 LabApp] Saving file at /project/nohup.out
+[I 16:28:40.597 LabApp] Starting buffering for e8d18239-bbb7-475f-948c-9e093697c55f:296551f7-2bc5-4af6-b666-c4b3e6c74454
+[I 16:28:41.574 LabApp] Starting buffering for 03461997-cc73-4b42-96ab-8cac4d7dcae1:2f246e1e-13c1-4d22-81b7-4cb46847bb5a
+[W 16:28:43.298 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 16:28:59.923 LabApp] Starting buffering for df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5:7ddae346-66a9-4bcc-ad13-72d909684a7d
+[W 16:35:44.559 LabApp] Notebook GradCAM_exp/Main.ipynb is not trusted
+[I 16:35:47.477 LabApp] Kernel started: c65ced5d-656f-4eab-9e76-e8d6b484157f, name: python3
+[I 16:35:50.782 LabApp] Kernel shutdown: e8d18239-bbb7-475f-948c-9e093697c55f
+[I 16:35:52.644 LabApp] Kernel shutdown: df078d7f-11cf-4fa4-bb6e-cf4b4d23eae5
+[I 16:35:54.677 LabApp] Kernel shutdown: 03461997-cc73-4b42-96ab-8cac4d7dcae1
+[I 16:36:35.742 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 16:36:36.258 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 16:37:30.805 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:37:31.197 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:37:47.740 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:38:37.860 LabApp] Kernel restarted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:39:09.372 LabApp] Kernel interrupted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:39:09.531 LabApp] Kernel interrupted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:39:09.706 LabApp] Kernel interrupted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:39:29.471 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:39:29.769 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:40:22.106 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:40:43.409 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:41:01.177 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:41:01.603 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:41:04.091 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:41:09.892 LabApp] Saving file at /GradCAM_exp/data.py
+[I 16:41:21.507 LabApp] Kernel restarted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:41:30.924 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:42:41.017 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 16:42:41.259 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 16:42:41.581 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 16:42:43.535 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 16:42:50.051 LabApp] Kernel restarted: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 16:43:32.166 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:45:33.309 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:47:34.552 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:49:37.222 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:51:38.380 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:53:39.921 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:55:42.484 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:57:44.042 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 16:59:46.059 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:01:52.004 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:03:53.099 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:05:55.268 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:07:56.512 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:09:57.788 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:11:59.056 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:14:01.815 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:16:04.045 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:18:06.148 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:20:08.790 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:22:10.516 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:24:13.119 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:26:15.549 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:28:17.923 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:30:20.709 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:32:22.704 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:34:26.295 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:36:28.152 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:38:30.735 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:40:33.506 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:42:36.286 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:44:38.564 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:46:40.422 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:48:41.917 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:50:44.948 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:52:46.895 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:54:49.084 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:56:51.099 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 17:58:52.873 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:00:54.901 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:02:56.721 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:04:57.978 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:07:08.621 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:09:10.945 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:11:14.726 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:13:16.859 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:15:18.834 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:17:24.819 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:19:30.969 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:21:37.809 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:23:42.129 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:25:45.769 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:27:48.502 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:29:50.462 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:31:53.042 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:33:54.721 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:35:57.191 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:38:00.958 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:40:03.337 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:42:07.530 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:44:09.281 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:46:11.270 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:48:13.878 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:50:16.494 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:52:19.292 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 18:52:53.355 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 19:02:42.998 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 19:02:42.998 LabApp] Replaying 152 buffered messages
+[I 19:03:47.557 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:05:49.762 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:07:52.090 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:09:41.979 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 19:09:42.861 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 19:10:49.183 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:12:51.834 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:14:54.795 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:16:56.570 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:18:58.493 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:21:00.687 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:23:03.370 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:25:05.742 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:27:08.314 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:29:10.166 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:31:11.817 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:33:13.881 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:35:15.830 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:37:17.631 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:39:20.122 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:41:21.659 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:43:23.709 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:45:25.840 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:47:28.696 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:49:30.117 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:51:31.638 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:53:34.190 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:55:36.479 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:57:38.863 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 19:59:40.660 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:01:46.899 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:03:49.040 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:05:52.425 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:08:02.665 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:10:08.412 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:12:11.106 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:14:13.319 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:16:16.141 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:18:18.720 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:20:21.210 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:22:23.296 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:24:25.073 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:26:27.594 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:28:30.157 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:30:32.056 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:32:34.562 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:34:40.246 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:36:43.747 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:38:48.301 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:40:50.659 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:42:53.604 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:44:55.952 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:47:00.704 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:49:03.596 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:51:06.686 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:53:08.605 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:55:11.385 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:57:13.551 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 20:59:17.724 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:01:20.517 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:03:23.346 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:05:25.093 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:07:27.101 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:09:29.099 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:11:31.466 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:13:34.714 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:15:38.910 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:17:41.639 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:19:43.604 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:21:45.608 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:23:47.140 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:25:48.626 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:27:51.092 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:29:52.955 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:32:05.747 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:34:09.398 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:36:13.755 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[W 21:38:12.862 LabApp] WebSocket ping timeout after 119467 ms.
+[W 21:38:16.602 LabApp] zmq message arrived on closed channel
+[I 21:38:17.864 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 21:45:40.017 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 21:45:40.017 LabApp] Replaying 114 buffered messages
+[I 21:46:23.155 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:48:27.727 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:50:31.332 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:52:35.924 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:54:38.552 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:56:42.756 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 21:58:45.527 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:00:47.667 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:02:53.502 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:05:07.071 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:07:11.507 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:09:16.439 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:11:19.505 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:13:22.488 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:15:24.846 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:17:30.779 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:19:33.911 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:21:37.064 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:23:40.609 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:25:44.260 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:27:46.287 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:29:49.093 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:31:53.894 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:33:56.943 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:36:00.928 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:38:04.879 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:40:08.213 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:42:10.476 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:44:12.314 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:46:16.780 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:48:20.020 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:50:23.442 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:52:30.890 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:54:34.443 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:56:37.096 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 22:58:40.270 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:00:45.573 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:02:49.097 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:04:52.162 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:06:55.250 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:09:00.761 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:11:10.085 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:13:14.236 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:15:17.077 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:17:20.628 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:19:28.719 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:21:32.379 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:23:38.476 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:25:44.351 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:27:48.798 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:29:53.575 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:32:00.005 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:34:05.280 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:36:10.414 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:38:14.342 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:40:17.612 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:42:23.695 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:44:30.856 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:46:34.177 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:48:40.447 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:50:44.721 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:52:48.001 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:54:55.216 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:56:59.382 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 23:59:10.993 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:15.953 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:43.882 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:47.404 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:50.722 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:56.521 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:01:56.598 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:04:02.639 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:06:08.903 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:08:19.280 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:10:23.336 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:12:38.228 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:15:07.435 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:17:10.312 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:19:13.917 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:21:17.496 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:23:21.449 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:25:28.286 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:27:32.946 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:29:36.726 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:31:40.809 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:33:43.477 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:35:47.105 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:37:50.285 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:39:56.657 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:42:00.766 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:44:05.112 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:46:09.079 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:48:12.470 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:50:15.475 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:52:19.479 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:54:26.249 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:56:30.296 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 00:58:36.446 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:00:40.246 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:02:43.793 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:04:48.232 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:06:51.599 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:08:54.417 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:10:57.594 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:13:03.721 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:15:09.605 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:17:15.249 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:19:19.263 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:21:22.260 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:23:25.246 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:25:28.127 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:27:31.686 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:29:35.014 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:31:37.889 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:33:40.813 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:35:44.894 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:37:47.785 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:39:50.752 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:41:53.460 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:43:56.876 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:46:01.149 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:48:04.131 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:50:06.608 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:52:08.985 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:54:11.960 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:56:13.920 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 01:57:21.874 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 04:49:38.676 LabApp] 302 GET / (196.52.43.54) 31.31ms
+[I 05:08:53.453 LabApp] 302 GET / (209.17.97.98) 1.01ms
+[I 07:32:32.951 LabApp] 302 GET / (167.248.133.35) 23.92ms
+[I 07:32:33.343 LabApp] 302 GET / (167.248.133.35) 0.45ms
+[I 07:32:33.757 LabApp] 302 GET /lab (167.248.133.35) 9.68ms
+[I 08:37:24.261 LabApp] 302 GET / (192.241.226.176) 0.42ms
+[I 11:32:12.767 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 11:32:12.767 LabApp] Replaying 475 buffered messages
+[I 11:32:32.388 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 11:39:34.146 LabApp] Creating new notebook in /GradCAM_exp
+[I 11:39:35.659 LabApp] Kernel started: 77111deb-2b22-47a1-878d-18a5a04344fe, name: python3
+[I 11:40:33.497 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 11:41:35.425 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:42:34.365 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 11:43:36.012 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:45:36.623 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:46:29.489 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 11:46:45.147 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 11:46:45.998 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 11:46:46.443 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 11:47:37.210 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:48:59.036 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:50:59.659 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:53:00.362 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:55:00.950 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 11:57:01.512 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 12:23:48.035 LabApp] Starting buffering for 77111deb-2b22-47a1-878d-18a5a04344fe:fc073547-6f94-4350-8dfb-f475948e984a
+[I 12:23:48.036 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 12:23:48.808 LabApp] Restoring connection for 77111deb-2b22-47a1-878d-18a5a04344fe:fc073547-6f94-4350-8dfb-f475948e984a
+[I 12:23:49.296 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[W 12:25:18.810 LabApp] WebSocket ping timeout after 90002 ms.
+[W 12:25:19.296 LabApp] WebSocket ping timeout after 90000 ms.
+[I 12:25:23.812 LabApp] Starting buffering for 77111deb-2b22-47a1-878d-18a5a04344fe:fc073547-6f94-4350-8dfb-f475948e984a
+[I 12:25:24.298 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 12:39:10.490 LabApp] Restoring connection for 77111deb-2b22-47a1-878d-18a5a04344fe:fc073547-6f94-4350-8dfb-f475948e984a
+[I 12:39:11.582 LabApp] Restoring connection for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 13:30:12.676 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 13:33:00.206 LabApp] 302 GET / (209.17.96.226) 0.43ms
+[I 13:33:00.667 LabApp] 302 GET /lab (209.17.96.226) 0.54ms
+[I 14:00:35.620 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[W 14:03:31.809 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 14:03:36.284 LabApp] Kernel started: ce18279b-e6c0-4a62-88c9-6a2ec19c822f, name: python3
+[I 14:03:50.577 LabApp] Copying project/MODEL_EVAL.ipynb to /project
+[W 14:03:50.612 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[W 14:03:50.642 LabApp] Notebook project/MODEL_EVAL-Copy1.ipynb is not trusted
+[W 14:04:01.866 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:04:06.294 LabApp] Kernel started: 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e, name: python3
+[I 14:04:38.949 LabApp] Saving file at /project/DN_GradCAM_EVAL.ipynb
+[W 14:04:38.949 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:04:47.547 LabApp] Starting buffering for ce18279b-e6c0-4a62-88c9-6a2ec19c822f:827dbb58-7606-46f5-907f-bc12d03222e7
+[I 14:04:48.265 LabApp] Starting buffering for 77111deb-2b22-47a1-878d-18a5a04344fe:fc073547-6f94-4350-8dfb-f475948e984a
+[I 14:06:27.968 LabApp] Saving file at /project/DN_GradCAM_EVAL.ipynb
+[W 14:06:27.969 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:08:32.338 LabApp] Saving file at /project/DN_GradCAM_EVAL.ipynb
+[W 14:08:32.339 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:10:01.584 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 14:10:29.373 LabApp] Saving file at /project/DN_GradCAM_EVAL.ipynb
+[W 14:10:29.374 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:10:29.721 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:70e7b127-0f18-4e9e-aa5f-2e4ee1660c17
+[W 14:12:01.368 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:13:37.934 LabApp] Saving file at /project/DN_GradCAM_EVAL.ipynb
+[W 14:13:37.935 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[I 14:14:04.219 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 14:16:07.210 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 14:52:42.689 LabApp] 302 GET / (74.120.14.50) 0.43ms
+[I 14:52:43.119 LabApp] 302 GET / (74.120.14.50) 0.36ms
+[I 14:52:43.547 LabApp] 302 GET /lab (74.120.14.50) 0.51ms
+[I 15:30:33.215 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 15:46:42.760 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 15:48:47.484 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 15:50:49.136 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[I 15:53:09.627 LabApp] Saving file at /GradCAM_exp/Main.ipynb
+[W 15:53:25.802 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 15:55:50.215 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 15:55:50.221 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 15:59:35.582 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 15:59:35.583 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 16:08:48.431 LabApp] Saving file at /project/MODEL_EVAL.ipynb
+[W 16:08:48.432 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 16:22:40.594 LabApp] 302 GET / (178.79.128.152) 0.45ms
+[I 21:19:38.485 LabApp] Saving file at /GradCAM_exp/Untitled.ipynb
+[I 21:19:40.091 LabApp] Starting buffering for 77111deb-2b22-47a1-878d-18a5a04344fe:96c16499-164b-4385-a0fb-a7de478a286d
+[I 21:21:45.547 LabApp] Starting buffering for c65ced5d-656f-4eab-9e76-e8d6b484157f:d8b10b9d-17b1-4396-a292-5de3be471b91
+[I 21:21:51.772 LabApp] Kernel shutdown: c65ced5d-656f-4eab-9e76-e8d6b484157f
+[I 21:47:16.237 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:2cee623a-ba8e-49d9-b906-fba1bf70d758
+[I 21:47:16.415 LabApp] Starting buffering for ce18279b-e6c0-4a62-88c9-6a2ec19c822f:0340084c-e40b-49c8-b54f-0dbea7ae3d18
+[I 23:44:42.006 LabApp] 302 GET / (172.105.238.87) 0.47ms
+[I 00:29:55.864 LabApp] 302 GET / (139.162.83.10) 0.52ms
+[W 04:07:14.538 LabApp] 404 GET http://example.com/ (185.39.11.105) 2.31ms referer=None
+[I 09:44:32.212 LabApp] 302 GET / (142.93.207.144) 0.38ms
+[I 09:44:32.643 LabApp] 302 GET /lab (142.93.207.144) 0.49ms
+[I 11:36:00.909 LabApp] 302 GET / (209.17.97.106) 0.38ms
+[I 11:36:01.393 LabApp] 302 GET /lab (209.17.97.106) 0.54ms
+[I 13:26:59.994 LabApp] 302 GET / (209.17.97.2) 0.47ms
+[I 15:17:51.286 LabApp] 302 GET / (192.35.168.249) 0.42ms
+[I 15:17:51.740 LabApp] 302 GET / (192.35.168.249) 0.41ms
+[I 15:17:52.195 LabApp] 302 GET /lab (192.35.168.249) 0.51ms
+[W 17:07:50.370 LabApp] 404 GET http://example.com/ (185.39.11.105) 1.11ms referer=None
+[I 18:12:15.343 LabApp] 302 GET / (162.142.125.36) 0.44ms
+[I 18:12:15.795 LabApp] 302 GET / (162.142.125.36) 0.41ms
+[I 18:12:16.277 LabApp] 302 GET /lab (162.142.125.36) 0.50ms
+[I 20:07:45.170 LabApp] 302 GET / (89.248.174.3) 0.42ms
+[I 22:19:53.501 LabApp] 302 GET / (167.248.133.35) 0.40ms
+[I 22:19:53.900 LabApp] 302 GET / (167.248.133.35) 0.40ms
+[I 22:19:54.317 LabApp] 302 GET /lab (167.248.133.35) 0.51ms
+[I 01:09:20.850 LabApp] 302 GET / (192.35.168.251) 0.41ms
+[I 01:09:21.305 LabApp] 302 GET / (192.35.168.251) 0.35ms
+[I 01:09:21.758 LabApp] 302 GET /lab (192.35.168.251) 0.50ms
+[I 01:59:55.691 LabApp] 302 GET / (2.57.122.177) 0.43ms
+[W 07:06:30.833 LabApp] 404 GET http://example.com/ (185.39.11.105) 1.15ms referer=None
+[I 09:27:55.444 LabApp] 302 GET / (209.17.97.74) 0.51ms
+[I 11:47:22.915 LabApp] 302 GET / (209.17.97.18) 0.44ms
+[I 11:47:23.391 LabApp] 302 GET /lab (209.17.97.18) 0.48ms
+[I 13:07:48.947 LabApp] 302 GET / (162.142.125.35) 0.41ms
+[I 13:07:49.424 LabApp] 302 GET / (162.142.125.35) 0.41ms
+[I 13:07:49.898 LabApp] 302 GET /lab (162.142.125.35) 0.51ms
+[I 15:38:42.454 LabApp] 302 GET / (125.64.94.136) 0.42ms
+[I 16:23:34.653 LabApp] 302 GET / (83.97.20.33) 0.46ms
+[I 16:23:35.011 LabApp] 302 GET /lab? (83.97.20.33) 0.54ms
+[I 17:50:06.450 LabApp] 302 GET / (173.199.202.163) 0.39ms
+[W 17:50:21.721 LabApp] Could not determine jupyterlab build status without nodejs
+[W 17:50:24.394 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[W 17:50:24.464 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[W 20:04:40.325 LabApp] delete /project/densenet201_nw_pretrained/dn201_nw_15.pt
+[W 20:09:32.585 LabApp] delete /project/resnet101_np/resnet101_np_15.pt
+[W 20:09:32.587 LabApp] delete /project/resnet101_np/resnet101_np_17.pt
+[W 20:09:32.589 LabApp] delete /project/resnet101_np/resnet101_np_18.pt
+[W 20:09:33.121 LabApp] delete /project/resnet101_np/resnet101_np_19.pt
+[W 20:09:33.122 LabApp] delete /project/resnet101_np/resnet101_np_26.pt
+[W 20:09:33.124 LabApp] delete /project/resnet101_np/resnet101_np_24.pt
+[W 20:09:33.124 LabApp] delete /project/resnet101_np/resnet101_np_20.pt
+[W 20:09:33.661 LabApp] delete /project/resnet101_np/resnet101_np_27.pt
+[W 20:09:55.825 LabApp] delete /project/densenet201_nopretrained/model_densenet201_0.pt
+[W 20:09:55.980 LabApp] delete /project/densenet201_nopretrained/model_densenet201_10.pt
+[W 20:09:56.362 LabApp] delete /project/densenet201_nopretrained/model_densenet201_1.pt
+[W 20:09:56.367 LabApp] delete /project/densenet201_nopretrained/model_densenet201_11.pt
+[W 20:09:56.369 LabApp] delete /project/densenet201_nopretrained/model_densenet201_12.pt
+[W 20:09:56.529 LabApp] delete /project/densenet201_nopretrained/model_densenet201_14.pt
+[W 20:09:56.906 LabApp] delete /project/densenet201_nopretrained/model_densenet201_16.pt
+[W 20:09:56.908 LabApp] delete /project/densenet201_nopretrained/model_densenet201_19.pt
+[W 20:09:57.067 LabApp] delete /project/densenet201_nopretrained/model_densenet201_17.pt
+[W 20:09:57.434 LabApp] delete /project/densenet201_nopretrained/model_densenet201_2.pt
+[W 20:09:57.438 LabApp] delete /project/densenet201_nopretrained/model_densenet201_22.pt
+[W 20:09:57.439 LabApp] delete /project/densenet201_nopretrained/model_densenet201_3.pt
+[W 20:09:57.611 LabApp] delete /project/densenet201_nopretrained/model_densenet201_4.pt
+[W 20:09:57.972 LabApp] delete /project/densenet201_nopretrained/model_densenet201_6.pt
+[W 20:09:57.974 LabApp] delete /project/densenet201_nopretrained/model_densenet201_8.pt
+[W 20:09:57.976 LabApp] delete /project/densenet201_nopretrained/model_densenet201_9.pt
+[I 02:00:15.512 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:faaf2211-f45a-4cb4-975c-8db217ba4c50
+[I 02:00:15.514 LabApp] Starting buffering for ce18279b-e6c0-4a62-88c9-6a2ec19c822f:64749dbb-44ed-4b8e-b02e-323cc1b6dbd3
+[I 02:03:44.986 LabApp] 302 GET / (209.17.97.34) 0.44ms
+[I 02:25:55.493 LabApp] 302 GET / (192.35.168.199) 0.37ms
+[I 02:25:55.941 LabApp] 302 GET / (192.35.168.199) 0.30ms
+[I 02:25:56.397 LabApp] 302 GET /lab (192.35.168.199) 0.42ms
+[I 02:26:06.250 LabApp] 302 GET / (192.35.169.48) 0.33ms
+[I 03:59:18.608 LabApp] 302 GET / (209.17.97.10) 0.42ms
+[I 03:59:19.088 LabApp] 302 GET /lab (209.17.97.10) 0.46ms
+[I 10:51:34.953 LabApp] 302 GET / (92.118.160.53) 0.41ms
+[I 10:51:35.364 LabApp] 302 GET /lab (92.118.160.53) 0.44ms
+[W 11:54:34.451 LabApp] Could not determine jupyterlab build status without nodejs
+[I 13:28:56.660 LabApp] 302 GET / (172.105.238.87) 0.47ms
+[I 14:46:52.190 LabApp] 302 GET / (196.52.43.59) 0.43ms
+[W 15:45:37.541 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[W 15:45:37.608 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 15:45:38.034 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:ad342889-2ce0-402b-b7df-832dae1907f2
+[I 15:46:20.499 LabApp] Kernel started: 25cfea41-ddb6-494f-bdef-dcfa6767e5cc, name: python3
+[I 15:46:21.258 LabApp] Kernel started: c75a506b-7054-480d-bba7-a2e7caed07c4, name: python3
+[I 15:46:27.526 LabApp] Starting buffering for 25cfea41-ddb6-494f-bdef-dcfa6767e5cc:715c8f6c-0104-4e0f-b8ca-1582f7c57d91
+[I 15:47:39.157 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 15:47:49.090 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 15:47:49.502 LabApp] Saving file at /GradCAM_exp/DNModel.py
+[I 15:47:58.083 LabApp] Kernel shutdown: c75a506b-7054-480d-bba7-a2e7caed07c4
+[I 15:48:05.113 LabApp] Kernel started: 99a8353c-59fd-43cb-9ef1-0c65cdba9744, name: python3
+[I 15:48:23.082 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 15:48:23.983 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 15:48:24.498 LabApp] Saving file at /GradCAM_exp/grad_cam.py
+[I 15:48:29.593 LabApp] Kernel restarted: 99a8353c-59fd-43cb-9ef1-0c65cdba9744
+[I 15:50:25.144 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 15:52:26.602 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 15:53:50.590 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 15:53:51.356 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 15:56:01.676 LabApp] Saving file at /GradCAM_exp/Test.ipynb
+[I 16:45:16.347 LabApp] Saving file at /GradCAM_exp/Main&ModelEval.ipynb
+[I 16:47:21.791 LabApp] Saving file at /GradCAM_exp/Main&ModelEval.ipynb
+[I 17:05:30.306 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:2100892f-0d68-48b7-b7f5-e1f3760ea6b4
+[I 17:05:30.306 LabApp] Starting buffering for ce18279b-e6c0-4a62-88c9-6a2ec19c822f:6ad8edd6-6633-46f7-b5a3-001fec7a7d0c
+[I 17:05:30.307 LabApp] Starting buffering for 25cfea41-ddb6-494f-bdef-dcfa6767e5cc:043d201d-54ae-470b-afbf-31c120f8ea1e
+[I 17:05:30.307 LabApp] Starting buffering for 99a8353c-59fd-43cb-9ef1-0c65cdba9744:0960d6b0-bdee-4c20-b4f6-c3d376176223
+[W 17:05:57.691 LabApp] Could not determine jupyterlab build status without nodejs
+[W 17:06:05.260 LabApp] Notebook project/DN_GradCAM_EVAL.ipynb is not trusted
+[W 17:06:05.360 LabApp] Notebook project/MODEL_EVAL.ipynb is not trusted
+[I 17:06:05.663 LabApp] Starting buffering for 99a8353c-59fd-43cb-9ef1-0c65cdba9744:3e7a2440-49e0-429f-805e-1c1caab4b8f4
+[I 17:54:19.640 LabApp] 302 GET / (74.120.14.49) 0.37ms
+[I 17:54:20.067 LabApp] 302 GET / (74.120.14.49) 0.33ms
+[I 17:54:20.484 LabApp] 302 GET /lab (74.120.14.49) 0.38ms
+[I 18:09:18.994 LabApp] 302 GET / (167.248.133.52) 0.36ms
+[I 18:09:19.390 LabApp] 302 GET / (167.248.133.52) 0.33ms
+[I 18:09:19.794 LabApp] 302 GET /lab (167.248.133.52) 0.36ms
+[I 22:47:10.270 LabApp] Starting buffering for 99a8353c-59fd-43cb-9ef1-0c65cdba9744:cc6fb47a-4cab-441f-bed4-d386eacc4994
+[I 22:47:10.270 LabApp] Starting buffering for 25cfea41-ddb6-494f-bdef-dcfa6767e5cc:437d61d6-e661-4b5c-9fe5-92452688874b
+[I 22:47:10.272 LabApp] Starting buffering for 5fc8aa7e-cfa4-49ce-9051-1c0a7ca2116e:1c08a718-6051-4cc5-b4ec-5eb5cc78efa4
+[I 22:47:10.272 LabApp] Starting buffering for ce18279b-e6c0-4a62-88c9-6a2ec19c822f:8ba805d3-cc8c-410c-abcf-edae32765fcc
+[W 22:52:25.185 LabApp] Could not determine jupyterlab build status without nodejs

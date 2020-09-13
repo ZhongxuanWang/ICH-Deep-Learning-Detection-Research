@@ -1,0 +1,103 @@
+Time: 0:19:52	epoch: 1 [100/252]	BCEloss: 5.474e-01
+Time: 0:39:44	epoch: 1 [200/252]	BCEloss: 5.313e-01
+Time: 0:50:02	epoch: 1 [252/252]	BCEloss: 5.229e-01
+ACC: 0.18277153558052434 out of total:1335
+[0.76363293 0.71777467 0.70258196 0.67846423 0.64769397 0.65732547]
+mean_auc: 0.694579
+save model
+Time: 1:13:12	epoch: 2 [100/252]	BCEloss: 4.867e-01
+Time: 1:33:16	epoch: 2 [200/252]	BCEloss: 4.855e-01
+Time: 1:43:42	epoch: 2 [252/252]	BCEloss: 4.837e-01
+ACC: 0.20674157303370785 out of total:1335
+[0.84222738 0.69068851 0.72770047 0.75046793 0.66697352 0.66257508]
+mean_auc: 0.723439
+save model
+Time: 2:06:52	epoch: 3 [100/252]	BCEloss: 4.841e-01
+Time: 2:27:14	epoch: 3 [200/252]	BCEloss: 4.803e-01
+Time: 2:37:54	epoch: 3 [252/252]	BCEloss: 4.775e-01
+ACC: 0.15880149812734082 out of total:1335
+[0.867357   0.6912693  0.73843369 0.79046167 0.68185961 0.68464714]
+mean_auc: 0.742338
+save model
+Time: 3:01:23	epoch: 4 [100/252]	BCEloss: 4.695e-01
+Time: 3:21:49	epoch: 4 [200/252]	BCEloss: 4.586e-01
+Time: 3:32:25	epoch: 4 [252/252]	BCEloss: 4.526e-01
+ACC: 0.26666666666666666 out of total:1335
+[0.8957805  0.71575069 0.79193556 0.87149731 0.70924877 0.68002689]
+mean_auc: 0.777373
+save model
+Time: 3:55:53	epoch: 5 [100/252]	BCEloss: 4.316e-01
+Time: 4:16:16	epoch: 5 [200/252]	BCEloss: 4.279e-01
+Time: 4:26:48	epoch: 5 [252/252]	BCEloss: 4.269e-01
+ACC: 0.29363295880149815 out of total:1335
+[0.90714843 0.73463533 0.82219921 0.91104184 0.74165333 0.70945137]
+mean_auc: 0.804355
+save model
+Time: 4:50:16	epoch: 6 [100/252]	BCEloss: 4.133e-01
+Time: 5:10:39	epoch: 6 [200/252]	BCEloss: 4.084e-01
+Time: 5:21:13	epoch: 6 [252/252]	BCEloss: 4.086e-01
+ACC: 0.2883895131086142 out of total:1335
+[0.90754085 0.74031422 0.84243071 0.91670467 0.74822352 0.71720214]
+mean_auc: 0.812069
+save model
+Time: 5:44:37	epoch: 7 [100/252]	BCEloss: 4.017e-01
+Time: 6:04:58	epoch: 7 [200/252]	BCEloss: 3.976e-01
+Time: 6:15:34	epoch: 7 [252/252]	BCEloss: 3.949e-01
+ACC: 0.3333333333333333 out of total:1335
+[0.91660821 0.76613906 0.86251555 0.92695153 0.76771244 0.73904764]
+mean_auc: 0.829829
+save model
+Time: 6:38:58	epoch: 8 [100/252]	BCEloss: 3.762e-01
+Time: 6:59:18	epoch: 8 [200/252]	BCEloss: 3.839e-01
+Time: 7:09:53	epoch: 8 [252/252]	BCEloss: 3.832e-01
+ACC: 0.3393258426966292 out of total:1335
+[0.92833422 0.80149129 0.86822683 0.93272667 0.78623461 0.7560241 ]
+mean_auc: 0.845506
+save model
+Time: 7:33:20	epoch: 9 [100/252]	BCEloss: 3.698e-01
+Time: 7:53:40	epoch: 9 [200/252]	BCEloss: 3.705e-01
+Time: 8:04:17	epoch: 9 [252/252]	BCEloss: 3.685e-01
+ACC: 0.3872659176029963 out of total:1335
+[0.93226579 0.80849017 0.87063807 0.93055546 0.79784483 0.7792142 ]
+mean_auc: 0.853168
+save model
+Time: 8:27:44	epoch: 10 [100/252]	BCEloss: 3.540e-01
+Time: 8:48:05	epoch: 10 [200/252]	BCEloss: 3.617e-01
+Time: 8:58:43	epoch: 10 [252/252]	BCEloss: 3.616e-01
+ACC: 0.33782771535580525 out of total:1335
+[0.9291485  0.82134979 0.8859239  0.93132457 0.80924261 0.78675469]
+mean_auc: 0.860624
+save model
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.7/site-packages/torch/serialization.py", line 364, in save
+    _save(obj, opened_zipfile, pickle_module, pickle_protocol)
+  File "/usr/local/lib64/python3.7/site-packages/torch/serialization.py", line 477, in _save
+    zip_file.write_record(name, storage.data_ptr(), num_bytes)
+OSError: [Errno 28] No space left on device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 70, in <module>
+    main(opts)
+  File "main.py", line 49, in main
+    torch.save(model.state_dict(), f'./vgg19_without_pretrain/model_vgg19_{epoch}.pt')
+  File "/usr/local/lib64/python3.7/site-packages/torch/serialization.py", line 365, in save
+    return
+  File "/usr/local/lib64/python3.7/site-packages/torch/serialization.py", line 258, in __exit__
+    self.file_like.write_end_of_file()
+RuntimeError: [enforce fail at inline_container.cc:262] . unexpected pos 491166592 vs 491166480
+terminate called after throwing an instance of 'c10::Error'
+  what():  [enforce fail at inline_container.cc:262] . unexpected pos 491166592 vs 491166480
+frame #0: c10::ThrowEnforceNotMet(char const*, int, char const*, std::string const&, void const*) + 0x47 (0x7f6a06f07fd7 in /usr/local/lib64/python3.7/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x228ff30 (0x7f6a44200f30 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: <unknown function> + 0x228c163 (0x7f6a441fd163 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: caffe2::serialize::PyTorchStreamWriter::writeRecord(std::string const&, void const*, unsigned long, bool) + 0x17b (0x7f6a4420210b in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_cpu.so)
+frame #4: caffe2::serialize::PyTorchStreamWriter::writeEndOfFile() + 0xe1 (0x7f6a44202ca1 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_cpu.so)
+frame #5: caffe2::serialize::PyTorchStreamWriter::~PyTorchStreamWriter() + 0x115 (0x7f6a44203495 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_cpu.so)
+frame #6: <unknown function> + 0x5a4033 (0x7f6a52af2033 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_python.so)
+frame #7: <unknown function> + 0x273fc0 (0x7f6a527c1fc0 in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_python.so)
+frame #8: <unknown function> + 0x27520e (0x7f6a527c320e in /usr/local/lib64/python3.7/site-packages/torch/lib/libtorch_python.so)
+<omitting python frames>
+frame #19: __libc_start_main + 0xea (0x7f6a5c73102a in /lib64/libc.so.6)
+
